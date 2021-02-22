@@ -24,9 +24,9 @@ I am Nidhi Singh, a Third Year Undergraduate of Information Technology Departmen
 <br>
 <br>
 
-- 🌱 I’m currently learning more about Tensorflow and Pytorch
+- 🌱 I’m currently learning more about Tensorflow and OpenCV.
 
-- 👯 I’m looking to collaborate on interesting Deep Learning and Open CV Projects
+- 👯 I’m looking to collaborate for hackathons.
 
 - 💬 Ask me about Python, Data Analysis, Machine Learning, Microsoft Azure ML.
 

@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh2010nidhi&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22singh2010nidhi" /> </p>
 
-I am Nidhi Singh, a Third Year Undergraduate of Information Technology Department at Institute of Engineering & Management, Kolkata. I have keen interest in Machine Learning and Artificial Inteligence. I am passionate about building Full Stack Machine Learning Projects.
+I am Nidhi Singh, a Final Year Undergraduate of Information Technology Department at Institute of Engineering & Management, Kolkata. I have keen interest in Machine Learning and ML on Cloud. I am passionate about building Full Stack Machine Learning Projects.
 
 **Languages and Tools:**  
 
